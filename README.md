@@ -21,10 +21,6 @@ DevOps Engineer with hands-on experience in AWS, Linux, Docker, Git/GitHub, CI/C
 
 ---
 
-## 🔗 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/hamza-jamil-a34651258/) | [GitHub](https://github.com/your-github)  
-
-
 <!-- Professional Header for GitHub README -->
 
 <div align="center">
