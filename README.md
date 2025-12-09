@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Hamza Jamil
-**A passionate DevOps Engineer & Cloud Engineer from Pakistan**  
+**A passionate DevOps Engineer & Cloud Engineer **  
 
 Email Me 👉 ✉️ **hamzajamilhj11@gmail.com** For Collaboration/Project or Anything Else. 😊  
 
