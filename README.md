@@ -49,6 +49,8 @@ DevOps Engineer with hands-on experience in AWS, Linux, Docker, Git/GitHub, CI/C
 ## 🌐 Socials:
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-jamil-a34651258)
+
 [LinkedIn Profile](https://www.linkedin.com/in/hamza-jamil-a34651258)
 
 
