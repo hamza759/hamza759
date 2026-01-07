@@ -1,17 +1,9 @@
 # 💫 Hi 👋, I'm Hamza Jamil
 **A passionate DevOps Engineer & Cloud Engineer**  
 
-Email Me 👉 ✉️ **hamzajamilhj11@gmail.com** For Collaboration/Project or Anything Else. 😊  
+Email Me 👉 ✉️ **hamzajamilhj11@gmail.com** For Collaboration/Project or Anything Else. 
 
-- 🔭 **I’m currently working on:** Day-to-day tasks at OneNetwork including deployment of frontend & backend applications, PostgreSQL replication, and serving applications via Nginx  
-- 🌱 **I’m currently learning:** Advanced DevOps tools, Kubernetes, and AWS best practices  
-- 👯 **I’m looking to collaborate on:** Cloud and DevOps projects, CI/CD pipelines, and automation initiatives  
-- 🤔 **I’m looking for help with:** Learning advanced cloud architecture and optimization  
-- 💬 **Ask me about:** DevOps, Cloud Deployment, CI/CD, Kubernetes, Terraform  
-
----
-
-## 👨‍💻 About Me
+👨‍💻 About Me
 DevOps Engineer with hands-on experience in AWS, Linux, Docker, Git/GitHub, CI/CD pipelines, automation, Kubernetes, and Terraform. Skilled in designing scalable and efficient solutions.  
 
 - Executed end-to-end deployment of containerized applications using Docker, Docker Compose, and Kubernetes with optimized resource configuration and Ingress routing  
